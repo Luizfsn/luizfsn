@@ -55,13 +55,13 @@ I have a degree in computer networks looking for opportunities and collaboration
 ![Snake animation](https://github.com/Luizfsn/luizfsn/blob/output/github-contribution-grid-snake.svg)
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=luizfsn)
-
-
 **Contact ME: ⤵️** 
 
 [<img src="https://img.shields.io/badge/luizfsn-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Luizfsn/luizfsn/)
 [<img src="https://img.shields.io/badge/luizfsn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luizfsn/) [<img src = "https://img.shields.io/badge/@luizf_sn-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/luizf_sn/) 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizfsn&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfsn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
