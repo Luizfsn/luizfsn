@@ -14,7 +14,7 @@ I have a degree in computer networks looking for opportunities and collaboration
 
 🇧🇷  Information Security | Cybersecurity | Analyst SOC | Defense-in-depth | Cyber Security News | Blue Team | Infrastructure | Hacking | Deaf Mentor  🇧🇷
 
-🚀  **Some Tools I Use**
+
 
 📕 I'm currently learning all about IT and Security.
 
@@ -38,7 +38,6 @@ I have a degree in computer networks looking for opportunities and collaboration
 
 **Skill & Languages & Tools** 💻
 
-🇧🇷  Information Security | Cybersecurity | Analyst SOC | Defense-in-depth | Cyber Security News | Blue Team | Infrastructure | Hacking | Deaf Mentor  🇧🇷
 
 ![image](https://user-images.githubusercontent.com/41551654/209852911-a0c1b121-f9b7-4bd1-bd1f-7ef21c27b179.png)
 ![image](https://user-images.githubusercontent.com/41551654/209852927-75c41265-7c1a-4287-a515-1454054ca1a4.png)
