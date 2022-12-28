@@ -43,6 +43,8 @@ I have a degree in computer networks looking for opportunities and collaboration
 🚀  **Some Tools I Use**
 
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 📕 I'm currently learning all about IT and Security.
 
 
@@ -53,4 +55,13 @@ I have a degree in computer networks looking for opportunities and collaboration
 
 [<img src="https://img.shields.io/badge/luizfsn-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Luizfsn/luizfsn/)
 [<img src="https://img.shields.io/badge/luizfsn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luizfsn/) [<img src = "https://img.shields.io/badge/@luizf_sn-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/luizf_sn/) 
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/41551654/209852732-52fbb48c-265f-443e-9748-1f78eab106f9.png)
+
 
