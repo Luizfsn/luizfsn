@@ -10,7 +10,7 @@
 
 📕 I'm currently learning all about IT and Security.
 
-
+![Snake animation](https://github.com/Luizfsn/luizfsn/blob/output/github-contribution-grid-snake.svg)
 
 -->
 
@@ -22,4 +22,5 @@
 
 📕 I'm currently learning all about IT and Security.
 
+![Snake animation](https://github.com/Luizfsn/luizfsn/blob/output/github-contribution-grid-snake.svg)
 
