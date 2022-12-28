@@ -7,6 +7,9 @@
 **I'm Luiz F Nunes**
 
 🇧🇷 Information Security | Cybersecurity | Analyst SOC | Defense-in-depth | Cyber Security News | Blue Team | Infrastructure | Hacking | Deaf Mentor 🇧🇷
+
+📕 I'm currently learning all about IT and Security.
+
 -->
 
 
@@ -15,3 +18,4 @@
 
 🇧🇷  Information Security | Cybersecurity | Analyst SOC | Defense-in-depth | Cyber Security News | Blue Team | Infrastructure | Hacking | Deaf Mentor  🇧🇷
 
+📕 I'm currently learning all about IT and Security.
