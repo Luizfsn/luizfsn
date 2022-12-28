@@ -10,11 +10,12 @@
 
 I have a degree in computer networks looking for opportunities and collaboration in projects related to cybernetics and cybersecurity and deep learning.
 
+**Skill & Languages & Tools** 💻
+
 🇧🇷 Information Security | Cybersecurity | Analyst SOC | Defense-in-depth | Cyber Security News | Blue Team | Infrastructure | Hacking | Deaf Mentor 🇧🇷
 
 📕 I'm currently learning all about IT and Security.
 
-**Skill & Languages & Tools** 💻
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=luizfsn)
  
@@ -33,14 +34,13 @@ I have a degree in computer networks looking for opportunities and collaboration
 
 I have a degree in computer networks looking for opportunities and collaboration in projects related to cybernetics and cybersecurity and deep learning.
 
+**Skill & Languages & Tools** 💻
+
 🇧🇷  Information Security | Cybersecurity | Analyst SOC | Defense-in-depth | Cyber Security News | Blue Team | Infrastructure | Hacking | Deaf Mentor  🇧🇷
 
 📕 I'm currently learning all about IT and Security.
 
 
-**Skill & Languages & Tools** 💻
-
-![image](https://user-images.githubusercontent.com/41551654/209847311-620512fa-d8e0-4c03-85fe-a19eac3eb482.png)
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=luizfsn)
