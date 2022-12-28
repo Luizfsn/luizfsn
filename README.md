@@ -12,7 +12,12 @@ I have a degree in computer networks looking for opportunities and collaboration
 
 📕 I'm currently learning all about IT and Security.
 
-![Snake Animation](https://github.com/Luizfsn/luizfsn/blob/output/github-contribution-grid-snake.svg)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Luizfsn)
+
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luizfsn/) 
+
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/luizf_sn/) 
           
 
 -->
@@ -27,5 +32,10 @@ I have a degree in computer networks looking for opportunities and collaboration
 
 📕 I'm currently learning all about IT and Security.
 
-![Snake Animation](https://github.com/Luizfsn/luizfsn/blob/output/github-contribution-grid-snake.svg)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Luizfsn)
+
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luizfsn/) 
+
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/luizf_sn/) 
 
