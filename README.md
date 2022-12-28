@@ -20,7 +20,7 @@ I have a degree in computer networks looking for opportunities and collaboration
 
 
 [<img src="https://img.shields.io/badge/luizfsn-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Luizfsn/luizfsn/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luizfsn/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/luizf_sn/) 
+[<img src="https://img.shields.io/badge/luizfsn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luizfsn/) [<img src = "https://img.shields.io/badge/@luizf_sn-%23E4405F.svg?&style=for-the-badge&logo=@luizf_sn&logoColor=white">](https://www.instagram.com/luizf_sn/) 
           
 
 -->
