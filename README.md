@@ -14,8 +14,11 @@ I have a degree in computer networks looking for opportunities and collaboration
 
 🇧🇷 Information Security | Cybersecurity | Analyst SOC | Defense-in-depth | Cyber Security News | Blue Team | Infrastructure | Hacking | Deaf Mentor 🇧🇷
 
+**Some Tools I Use**
+
 📕 I'm currently learning all about IT and Security.
 
+![Snake animation](https://github.com/Luizfsn/luizfsn/blob/output/github-contribution-grid-snake.svg)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=luizfsn)
  
@@ -41,7 +44,7 @@ I have a degree in computer networks looking for opportunities and collaboration
 📕 I'm currently learning all about IT and Security.
 
 
-
+![Snake animation](https://github.com/Luizfsn/luizfsn/blob/output/github-contribution-grid-snake.svg)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=luizfsn)
  
