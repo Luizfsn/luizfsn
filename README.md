@@ -10,7 +10,7 @@
 
 📕 I'm currently learning all about IT and Security.
 
-https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg
+![Snake animation](https://github.com/Luizfsn/luizfsn/blob/output/github-contribution-grid-snake.svg)
 
 -->
 
@@ -22,4 +22,4 @@ https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribu
 
 📕 I'm currently learning all about IT and Security.
 
-https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg
+![Snake animation](https://github.com/Luizfsn/luizfsn/blob/output/github-contribution-grid-snake.svg)
