@@ -10,6 +10,8 @@
 
 📕 I'm currently learning all about IT and Security.
 
+https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg
+
 -->
 
 
@@ -19,3 +21,5 @@
 🇧🇷  Information Security | Cybersecurity | Analyst SOC | Defense-in-depth | Cyber Security News | Blue Team | Infrastructure | Hacking | Deaf Mentor  🇧🇷
 
 📕 I'm currently learning all about IT and Security.
+
+https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg
