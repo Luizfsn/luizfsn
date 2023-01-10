@@ -63,6 +63,5 @@ I have a degree in computer networks looking for opportunities and collaboration
 
 <div>
 <a href="https://github.com/Luizfsn">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfsn&layout=compact&langs_count=7&theme=dark"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luizfsn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
