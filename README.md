@@ -34,7 +34,7 @@ I have a degree in computer networks looking for opportunities and collaboration
 
 **I'm Luiz F Nunes**
 
-I have a degree in computer networks looking for opportunities and collaboration in projects related to cybernetics and cybersecurity and deep learning.
+I have a degree in computer networks,Professional experience, SOC Cybersecurity, Information Security and Infrastructure | Blue Team, looking for opportunities and collaboration in projects related to cybernetics and cybersecurity and deep learning.
 
 **Skill & Languages & Tools** 💻
 
