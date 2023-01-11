@@ -52,9 +52,6 @@ I have a degree in computer networks, professional experience SOC Cybersecurity 
 📕 I'm currently learning all about IT and Security.
 
 
-![Snake animation](https://github.com/Luizfsn/luizfsn/blob/output/github-contribution-grid-snake.svg)
-
-
 **Contact ME: ⤵️** 
 
 [<img src="https://img.shields.io/badge/luizfsn-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Luizfsn/luizfsn/)
