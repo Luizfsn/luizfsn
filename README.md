@@ -36,8 +36,6 @@ I have a degree in computer networks looking for opportunities and collaboration
 
 I have a degree in computer networks, professional experience, SOC Cybersecurity, Information Security and Infrastructure | Blue Team, looking for opportunities and collaboration on projects related to cybernetics and cybersecurity and deep learning.
 
-
-
 **Skill & Languages & Tools** 💻
 
 
