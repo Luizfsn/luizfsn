@@ -57,3 +57,7 @@ I have a degree in computer networks, professional experience SOC Cybersecurity 
 [<img src="https://img.shields.io/badge/luizfsn-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Luizfsn/luizfsn/)
 [<img src="https://img.shields.io/badge/luizfsn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luizfsn/) [<img src = "https://img.shields.io/badge/@luizf_sn-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/luizf_sn/) 
 
+<div>
+<a href="https://github.com/Luizfsn">
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=luizfsn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
